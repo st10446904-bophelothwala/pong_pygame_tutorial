@@ -1,0 +1,61 @@
+# requirements
+
+Windows:
+
+1. Make sure python is installed
+    - python website
+    - microsoft store
+    - version 3.6 or above
+    - verify installation: python --version
+
+2. Install pygame
+     - pip install pygame
+     - python -m pygame --version or 
+        import pygame
+        print(pygame.__version__)
+
+3. Create virtual environment (good practice in python - optional)
+     - create: python -m venv venv
+     - activate
+
+
+4. Run project
+     - python file.py or python3 file.py
+
+macOS
+
+1. Make sure python is installed
+    - python website
+    - version 3.6 or above
+    - verify installation: python3 --version
+
+2. Install pygame
+     - pip3 install pygame
+     - 
+
+
+3. Create virtual environment (good practice in python - optional)
+     - create: source venv/bin/activate
+
+     
+4. Run project
+     - python file.py or python3 file.py
+
+Linux
+
+1. Make sure python is installed
+    - python website
+    - version 3.6 or above
+    - verify installation: python3 --version
+
+2. Install pygame
+     - pip3 install pygame
+     - python -m pygame --version
+
+3. Create virtual environment (good practice in python - optional)
+     - create: source venv/bin/activate
+
+
+4. Run project
+     - python file.py or python3 file.py
+
